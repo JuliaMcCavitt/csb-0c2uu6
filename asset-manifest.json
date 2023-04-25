@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://juliamccavitt.github.io/csb-0c2uu6/static/css/main.87e61904.css",
+    "main.js": "https://juliamccavitt.github.io/csb-0c2uu6/static/js/main.e1b5eb63.js",
+    "index.html": "https://juliamccavitt.github.io/csb-0c2uu6/index.html",
+    "main.87e61904.css.map": "https://juliamccavitt.github.io/csb-0c2uu6/static/css/main.87e61904.css.map",
+    "main.e1b5eb63.js.map": "https://juliamccavitt.github.io/csb-0c2uu6/static/js/main.e1b5eb63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.87e61904.css",
+    "static/js/main.e1b5eb63.js"
+  ]
+}
